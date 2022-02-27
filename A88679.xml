@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Sr Marmaduke Langdale, generall of the Northerne forces: to Sir Charles Lucas: containing a cleare relation of all their proceedings in the North: vvith an hopefull assurance of a speedy relief to Colchester. After the originall copy, truly transcribed.</title>
+            <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88679</idno>
+            <idno type="STC">Wing L382</idno>
+            <idno type="STC">Thomason E457_20</idno>
+            <idno type="STC">ESTC R204995</idno>
+            <idno type="EEBO-CITATION">99864441</idno>
+            <idno type="PROQUEST">99864441</idno>
+            <idno type="VID">162076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162076)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E457[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Sr Marmaduke Langdale, generall of the Northerne forces: to Sir Charles Lucas: containing a cleare relation of all their proceedings in the North: vvith an hopefull assurance of a speedy relief to Colchester. After the originall copy, truly transcribed.</title>
+                  <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M.L.</note>
+                  <note>Annotation on Thomason copy: "Aug: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162076:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <hi>A</hi> LETTER FROM S<hi rend="sup">r</hi> 
+               <hi>MARMADVKE LANGDALE,</hi> GENERALL of the <hi>Northerne Forces;</hi> TO Sir <hi>CHARLES L<g ref="char:V">Ʋ</g>CAS:</hi> CONTAINING A cleare <hi>Relation</hi> of all their <hi>proceedings</hi> in the <hi>North:</hi> VVith an hopefull aſſurance of a ſpeedy <hi>Relief</hi> to COLCHESTER.</p>
+            <p>After the Originall Copy, truly tranſcribed.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162076:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:162076:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>
+               <hi>A</hi> LETTER FROM Sir MARMADUKE LANGDALE Generall of the <hi>Northern Forces, TO</hi> Sir CHARLES LUCAS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our gallantry in <hi>reſolution</hi> and <hi>action</hi> du<g ref="char:EOLhyphen"/>ring that fierce and furious Siedge of <hi>Colcheſter,</hi> hath already confirm'd in us that noble opinion which we ever re<g ref="char:EOLhyphen"/>tain'd of you in all your undertakings, both for <hi>ſpirit</hi> and <hi>knowledge.</hi> Valour acquits it ſelfe beſt in extreames: Of this your loyall proweſſe hath given an ample teſtimony. We here, who truly love and honour you, and who with ſome of our beſt and choiceſt Forces hope in a very ſhort time to Relieve you; could not retain leſſe then a deep reſent<g ref="char:EOLhyphen"/>ment of the diverſion of thoſe nobly-diſpoſed <hi>Royaliſts,</hi>
+               <pb n="2" facs="tcp:162076:3"/>
+               <!-- PDF PAGE 3 -->who ingaged their Perſons for your Succour: with the pre-mature fall of that active Sparke of true Native Ho<g ref="char:EOLhyphen"/>nour, the Lord <hi>Francis Villers:</hi> upon whoſe Surprized and diſ-armed Body, report informs us, that ſuch inhu<g ref="char:EOLhyphen"/>manity by a <hi>Mechanick hand</hi> was committed; as Barba<g ref="char:EOLhyphen"/>riſme it ſelf would conceive Horror to be an Actor in a Subject of ſuch cruelty. But what ſhall either you or we collect from theſe tragick overtures, but the implacable hate and heat of an odious perfidious Foe, flaming from a furious deſire of imbruing his treacherous hands in the bloud of all Such as profeſſe themſelves <hi>faithfull Ser<g ref="char:EOLhyphen"/>vants</hi> in defence of their <hi>Princes honour, ſafety</hi> of their <hi>Country,</hi> her juſt and auntient <hi>Liberties!</hi> for which we Fight: and for preſervation of which, we ſhall ever hold it a <hi>devotionall loyalty</hi> to ingage our perſons, fortunes, with whatſoever is moſt dear unto us. The cruelty they ſhew to ours, might preſcribe us a Rule what to do, when it ſhall pleaſe God that we be (which we hope ere long to be) <hi>Maſters</hi> of the <hi>field.</hi> But revenge in actions of cruelty ſhall ever be as far eſtranged from our thoughts: as theirs, ſince firſt theſe Civill unnaturall Wars were broached, have been from harbouring loyalty or com<g ref="char:EOLhyphen"/>paſſion. Mean time, theſe mens deſignes, who puſh at nothing lower then <hi>Crowns,</hi> may afford both you and us, who ſtand in defence of a <hi>juſt Cauſe,</hi> and no <hi>private Intereſt,</hi> as God is our witneſſe) this uſefull Leſſon, <q>Rather to ſacrifice our Lives to a noble and memo<g ref="char:EOLhyphen"/>rable fate; then to ſubmit to an imperious mercileſſe Foe.</q>
+            </p>
+            <p>Hold out, brave Sir; continue your reſolution; pur<g ref="char:EOLhyphen"/>ſue your Sallies: let not their numerous Recruits amate you, (give me leave for the true zeale I beare to your Cauſe, and love to your perſon, to inforce this needleſſe
+<pb n="3" facs="tcp:162076:3"/>
+               <!-- PDF PAGE 3 -->advice:) you need little doubt, but if <hi>Skippon's</hi> power of <hi>inliſting</hi> men be abridg'd, as we hear it is: that theſe recruits or freſh ſupplies cannot continue long. Sedition, have it never ſo <hi>ſpecious pretences,</hi> nor <hi>powerfull Favou<g ref="char:EOLhyphen"/>rites;</hi> it will at one time or other be unmask'd, and ſhew its own deformity; which ſhown, thoſe who followed her, and fooliſhly fawned on her, will become much a<g ref="char:EOLhyphen"/>ſham'd that their miſ-guided judgments ſhould be ever taken with ſo deceiving a beauty.</p>
+            <p>Now to enliven the hopes of all that brave and ho<g ref="char:EOLhyphen"/>nourable <hi>Cavalry</hi> there with you; Think every Evening, how we are one daies March neerer you then we were in th' Morning: and that our <hi>heartieſt wiſhes</hi> go along with you; as we are very confident within few daies, with our <hi>hands</hi> to aſſiſt you. And to confirm the appa<g ref="char:EOLhyphen"/>rancy of theſe hopes, you may be pleaſed herewith to receive an <hi>Abſtract</hi> of our proceedings, together with the Order we obſerve, and Succeſſe we receive in our March towards you; which you may with aſſurance communicate to my L. <hi>Goring,</hi> my L. <hi>Capell;</hi> to whom, I beſeech you preſent my affectionateſt Service, with all others of concern.</p>
+            <p>Having divided our <hi>Army</hi> into two ſeverall <hi>Bodies,</hi> both for accommodation of <hi>Quarter,</hi> as alſo to reduce ſuch <hi>Neutrall Counties</hi> in either Diviſion, as upon appea<g ref="char:EOLhyphen"/>rance of a <hi>viſible Force</hi> were eaſily to be made Ours: it was my <hi>Charge</hi> with ſundry other <hi>Engliſh Co<g ref="char:cmbAbbrStroke">̄</g>manders</hi> of eminent quality and under my <hi>Conduct,</hi> to march <hi>North<g ref="char:EOLhyphen"/>weſt; His Excellence, High Lord Generall</hi> of the <hi>Scotiſh Forces, North-eaſt.</hi> In our March we found an oppoſing, but no conſiderable Party ready to incounter us near <hi>Appleby;</hi> but they were quickly driven to a ſpeedy re<g ref="char:EOLhyphen"/>treat, and in ſuch confuſion, as their fear inforc'd them
+<pb n="4" facs="tcp:162076:4"/>
+               <!-- PDF PAGE 4 -->to make choice of ſuch a place for their Quarter, as of all others, was moſt incommodious for relieving Soul<g ref="char:EOLhyphen"/>diers. Their retreat to that part of the Country made was for their ruine; being to incounter afreſh with the <hi>Scots,</hi> by whom they were, though not totally routed, fearfully diſtreſſed.</p>
+            <p>Since which time, <hi>Scarborough</hi> a Port-town of main conſequence; with the <hi>Caſtle,</hi> a Fort of impregnable ſtrength, have declared <hi>for the King.</hi>
+            </p>
+            <p>In our addreſſe to <hi>Kendall,</hi> we found the Town gene<g ref="char:EOLhyphen"/>rally wel-affected: Such as had been before Officers and active Inſtruments for the <hi>Publique;</hi> upon remove of ſome principall Fomenters of Sedition in thoſe parts, becauſe wholly Ours. Theſe we receiv'd, and conferr'd Places of imployment and Co<g ref="char:cmbAbbrStroke">̄</g>mand upon them accor<g ref="char:EOLhyphen"/>ding to their qualities, and capacities of managing them.</p>
+            <p>We apparently found, during our ſhort abode there; that nothing had ſo much infected the affections of the people, as the ſeditious doctrine of ſundry Sectaries and Non-conformatiſts in thoſe parts, who beſtowed their <hi>oyle</hi> in laying <hi>adulterate colours</hi> upon the <hi>face</hi> of <hi>Rebellion.</hi>
+            </p>
+            <p>But their feare of danger has cauſed them to leave their paſture: By whoſe abſence &amp; apprehenſion of their own <hi>errours,</hi> their <hi>deluded Flock</hi> is now brought back to the <hi>fold</hi> of Loyalty. So clear we left that part, or angle rather, of the County.</p>
+            <p>In our March to <hi>Lancaſter,</hi> we met with no oppoſition. For the Town, it is rather <hi>Neutrall</hi> then <hi>cordially Loyall;</hi> howbeit, the Inhabitants pretended themſelves Ours: for theſe, much like the popular affections of moſt men in thoſe parts, move and remove juſt as they ſee our For<g ref="char:EOLhyphen"/>ces move. Some will wonder why we made it not our work in our March, to take in the <hi>Caſtle,</hi> being a place of
+<pb n="5" facs="tcp:162076:4"/>
+               <!-- PDF PAGE 4 -->ſuch ſtrength and conveniency for receiving and enter<g ref="char:EOLhyphen"/>taining Garriſons to keep thoſe parts in awe and ſubje<g ref="char:EOLhyphen"/>ction; which otherwiſe, by the factious advice and practice of Incendiaries, (of which number there is no County but it has one corner or other ſufficiently ſto<g ref="char:EOLhyphen"/>red) might break out into open Rebellion; or ſuch dan<g ref="char:EOLhyphen"/>gerous innovation, as it might highly trench upon the ſafety and welfare of thoſe adjacent parts. But my An<g ref="char:EOLhyphen"/>ſwer is, as there is at this time no conſiderable Force within the <hi>Caſtle;</hi> which concludes it leſſe formidable: So our times of Speedy marching are no convenient ſea<g ref="char:EOLhyphen"/>ſons for beſieging. Let us firſt doe the work we came for in the County, and all theſe Forts will find hands to open their Gates to us cheerfully. There was no report which we receiv'd with more acceptance then the redu<g ref="char:EOLhyphen"/>ction of ſome <hi>Commanders</hi> in thoſe parts; who, weary of ingaging their <hi>lives, eſtates,</hi> and <hi>liberties,</hi> in ſo unjuſt and diſloyal a quarrel, became firme and faithful <hi>Cavaliers:</hi> and being perſons of quality, drew others by their ex<g ref="char:EOLhyphen"/>ample, to the like practice of obedience and loyalty. I ſhall not need to inſtance them; their perſonall imploy<g ref="char:EOLhyphen"/>ments will witneſſe ſo much for them.</p>
+            <p>In this our March towards <hi>Preſton,</hi> we feare no <hi>over<g ref="char:EOLhyphen"/>tures. Heavy taxes</hi> and <hi>grievous quarterings</hi> have made many already ſhake off the inſupportable yoak of their <hi>ſlavery.</hi> The father we go, the more confident we are. <hi>Cheſhire</hi> hears of our advance with much cheerfulneſſe. The like <hi>ſucceſs</hi> we receive by <hi>Letters</hi> from his <hi>Excellence.</hi>
+            </p>
+            <p>Dear Sir, hold out but a little, a very little ſpace; your <hi>friends</hi> will viſit you, and bring you off with honour: and with joynt imbraces congratulate you, for making <hi>loyalty</hi> your <hi>object</hi> of <hi>valour.</hi>
+            </p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt conſtant Servant, M.L.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
